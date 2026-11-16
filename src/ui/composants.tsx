@@ -145,8 +145,8 @@ export function Nav({ role }: { role: "institut" | "esthe" }) {
 
 export function Avatar({ texte, taille = 44, teinte = "magenta" }: { texte: string; taille?: number; teinte?: "magenta" | "nuit" | "vert" }) {
   const couleurs = {
-    magenta: { background: "#f4d9e6", color: "#6e0039" },
-    nuit: { background: "#e6eaf4", color: "#1a2747" },
+    magenta: { background: "#efd6ca", color: "#6a3220" },
+    nuit: { background: "#efe6dc", color: "#4a2e22" },
     vert: { background: "#e3f3ec", color: "#0b5b41" },
   }[teinte];
   return (

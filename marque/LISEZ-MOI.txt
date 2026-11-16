@@ -2,29 +2,30 @@ RENFORLY — KIT DU LOGO
 
 1-logo-principal
   renforly-horizontal (.svg / .png)        Logo principal : site, documents, signature e-mail
-  renforly-horizontal-fond-sombre.png      Même logo pour fond bleu nuit ou foncé
+  renforly-horizontal-fond-sombre.png      Même logo pour fond cacao ou foncé
   renforly-horizontal-inverse.svg          Version vectorielle pour fond sombre
   renforly-empile (.svg / .png)            Logo empilé : formats carrés, affiches
   renforly-symbole (.svg / .png)           La fleur seule (petits espaces, filigrane)
   renforly-mot.svg                         Le mot « renforly » seul
 
-2-une-couleur                             Versions noire, blanche et bleu nuit (tampon, broderie, gravure, fax)
+2-une-couleur                              Versions noire, blanche et cacao (tampon, broderie, gravure)
 
 3-icones
-  icone-app-1024 / 512 / 192 / 180.png    Icône de l'application (App Store, Android, écran d'accueil)
-  favicon-48 / 32 / 16.png + .svg         Icône de l'onglet du navigateur
+  icone-app-1024 / 512 / 192 / 180.png     Icône de l'application (App Store, Android, écran d'accueil)
+  favicon-48 / 32 / 16.png + .svg          Icône de l'onglet du navigateur
 
 4-reseaux-sociaux
-  photo-de-profil-1080.png                Photo de profil Facebook et Instagram
+  photo-de-profil-1080.png                 Photo de profil Facebook et Instagram
 
 Les fichiers .svg sont les originaux : ils s'agrandissent sans perte. Utilisez les .png pour Canva,
 Word ou les réseaux sociaux.
 
 COULEURS
-  Bleu nuit        #1A2747   RVB 26 39 71
-  Magenta          #B8005F   RVB 184 0 95
-  Rose clair       #F06AA6   (pétale et « ly » sur fond sombre uniquement)
-  Gris porcelaine  #F1F2F5   (fonds clairs)
+  Cacao             #4A2E22   RVB 74 46 34
+  Terracotta        #B5654A   RVB 181 101 74   (pétale, « ly », grands aplats)
+  Terracotta foncé  #9C4F36   (boutons et liens : assez contrasté pour du texte blanc)
+  Terracotta clair  #E3A58C   (pétale et « ly » sur fond sombre uniquement)
+  Crème             #F6F1EA   (fonds clairs)
 
 POLICES (gratuites, licence OFL, disponibles sur Google Fonts et dans Canva)
   Bricolage Grotesque ExtraBold : titres et logo
@@ -33,7 +34,7 @@ POLICES (gratuites, licence OFL, disponibles sur Google Fonts et dans Canva)
 RÈGLES
   - Espace vide autour du logo : au moins la hauteur d'une pétale.
   - Logo horizontal : 120 px de large minimum à l'écran, 30 mm à l'impression ; en dessous, la fleur seule.
-  - La pétale magenta pointe toujours vers le haut ; pas d'autres couleurs, d'ombre ni de déformation.
+  - La pétale terracotta pointe toujours vers le haut ; pas d'autres couleurs, d'ombre ni de déformation.
 
 Avant de déposer la marque : une recherche à l'identique sur data.inpi.fr (16/11/2026) n'a trouvé aucune marque
 « Renforly » en vigueur. Commandez la recherche de similarité de l'INPI avant le dépôt.

@@ -79,7 +79,7 @@ function Propositions({ m }: { m: Mission }) {
             </span>
             {selection ? (
               <>
-                <dl className="recap" style={{ borderTop: "1px solid #eceef3" }}>
+                <dl className="recap" style={{ borderTop: "1px solid #efe9e0" }}>
                   <div><dt>{formatHeures(d.heures)} × {formatEuros(p.tarifHoraire)}</dt><dd>{formatEuros(d.montantPrestation)}</dd></div>
                   <div><dt>Frais de service (15 %)</dt><dd>{formatEuros(d.fraisService)}</dd></div>
                   <div><dt style={{ color: "var(--encre)", fontWeight: 700 }}>Total, débité après validation</dt><dd>{formatEuros(d.total)}</dd></div>

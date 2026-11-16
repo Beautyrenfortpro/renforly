@@ -14,7 +14,7 @@ const fichiers = readdirSync(dossier);
 const css = readFileSync(join(dossier, fichiers.find((f) => f.endsWith(".css"))), "utf8");
 const js = readFileSync(join(dossier, fichiers.find((f) => f.endsWith(".js"))), "utf8").replace(/<\/script/gi, "<\\/script");
 const page = `<title>Renforly</title>
-<meta name="theme-color" content="#1A2747">
+<meta name="theme-color" content="#4A2E22">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap" rel="stylesheet">
