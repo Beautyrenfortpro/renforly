@@ -212,7 +212,7 @@ export default function MissionInstitut() {
               <li><Icone nom="document" taille={18} /><span style={{ flex: 1, fontSize: 14, fontWeight: 600 }}>Prestation de {e.prenom} {e.nomInitiale}.</span><span className="tres-petit">{formatEuros(d!.montantPrestation)}</span></li>
               <li><Icone nom="document" taille={18} /><span style={{ flex: 1, fontSize: 14, fontWeight: 600 }}>Frais de service</span><span className="tres-petit">{formatEuros(d!.fraisService)}</span></li>
             </ul>
-            <p className="tres-petit">Facture de prestation établie par Beauty Renfort Pro au nom et pour le compte de {e.prenom} {e.nomInitiale}. (démo)</p>
+            <p className="tres-petit">Facture de prestation établie par Renforly au nom et pour le compte de {e.prenom} {e.nomInitiale}. (démo)</p>
           </div>
         )}
 

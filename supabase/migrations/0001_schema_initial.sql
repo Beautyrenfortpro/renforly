@@ -1,4 +1,4 @@
--- Beauty Renfort Pro — schéma initial (à appliquer sur un projet Supabase hébergé en Europe).
+-- Renforly — schéma initial (à appliquer sur un projet Supabase hébergé en Europe).
 -- Pas encore utilisé par l'application : la démo stocke ses données dans le navigateur.
 -- Montants en centimes (entiers). Règles d'accès (RLS) activées sur toutes les tables.
 

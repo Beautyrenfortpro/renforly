@@ -13,7 +13,7 @@ const dossier = "dist-demo/assets";
 const fichiers = readdirSync(dossier);
 const css = readFileSync(join(dossier, fichiers.find((f) => f.endsWith(".css"))), "utf8");
 const js = readFileSync(join(dossier, fichiers.find((f) => f.endsWith(".js"))), "utf8").replace(/<\/script/gi, "<\\/script");
-const page = `<title>Beauty Renfort Pro</title>
+const page = `<title>Renforly</title>
 <meta name="theme-color" content="#1A2747">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

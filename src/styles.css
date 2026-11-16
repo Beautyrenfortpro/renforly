@@ -1,4 +1,4 @@
-/* Beauty Renfort Pro — thème issu des maquettes.
+/* Renforly — thème issu des maquettes.
    Bleu nuit = confiance, magenta = actions, vert = vérifié, ambre = attention. */
 :root {
   --fond: #f1f2f5;
@@ -93,11 +93,9 @@ h1, h2, h3, p { margin: 0; }
   width: 44px; height: 44px; border-radius: 22px; border: none; background: var(--surface);
   display: inline-flex; align-items: center; justify-content: center; color: var(--encre); flex-shrink: 0; cursor: pointer;
 }
-.marque { display: flex; align-items: baseline; gap: 6px; text-decoration: none; color: var(--encre); }
-.marque span:first-child { font-size: 19px; font-weight: 800; letter-spacing: -0.4px; }
-.marque span:last-child {
-  font-size: 12px; font-weight: 800; color: #fff; background: var(--magenta); padding: 2px 6px; border-radius: 6px;
-}
+.marque { display: flex; align-items: baseline; gap: 0; text-decoration: none; color: var(--encre); }
+.marque span { font-size: 21px; font-weight: 800; letter-spacing: -0.6px; }
+.marque span:last-child { color: var(--magenta); }
 .titre-page { font-size: 28px; line-height: 1.12; font-weight: 800; letter-spacing: -0.8px; text-wrap: balance; }
 .sous-titre { font-size: 15px; line-height: 1.45; color: var(--encre-douce); }
 .titre-section { font-size: 17px; font-weight: 800; }

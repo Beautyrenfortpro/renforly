@@ -9,7 +9,7 @@ import { etatInitial, type Etat } from "./seed";
 // Quand Supabase sera branché, seules ces fonctions changeront : les écrans,
 // eux, continueront d'appeler les mêmes actions.
 
-const CLE = "beauty-renfort-pro:demo:v1";
+const CLE = "renforly:demo:v1";
 
 function charger(): Etat {
   try {

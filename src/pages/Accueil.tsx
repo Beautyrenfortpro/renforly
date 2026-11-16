@@ -5,9 +5,9 @@ export default function Accueil() {
   return (
     <div className="app">
       <main className="contenu" style={{ paddingTop: 40, gap: 28 }}>
-        <div className="marque" aria-label="Beauty Renfort Pro">
-          <span>Renfort</span>
-          <span>PRO</span>
+        <div className="marque" aria-label="Renforly">
+          <span>renfor</span>
+          <span>ly</span>
         </div>
         <div className="section" style={{ gap: 14 }}>
           <h1 className="titre-page">Des esthéticiennes vérifiées, quand l'institut en a besoin.</h1>

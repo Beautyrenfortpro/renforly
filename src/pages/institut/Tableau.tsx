@@ -84,7 +84,7 @@ export function InstitutAccueil() {
     <div className="app avec-nav">
       <BandeauDemo />
       <header style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "16px 16px 4px" }}>
-        <span className="marque"><span>Renfort</span><span>PRO</span></span>
+        <span className="marque" aria-label="Renforly"><span>renfor</span><span>ly</span></span>
         <Link to="/institut/compte" className="btn btn-secondaire" style={{ minHeight: 44, borderRadius: 22, padding: "0 12px 0 6px", fontSize: 13, gap: 8 }}>
           <Avatar texte="BR" taille={32} teinte="nuit" />
           {etat.institut.nom.replace("Institut ", "")}

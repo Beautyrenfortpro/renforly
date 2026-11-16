@@ -1,4 +1,4 @@
-# Beauty Renfort Pro
+# Renforly
 
 Application de mise en relation entre instituts de beauté et esthéticiennes indépendantes vérifiées,
 pour les remplacements et les renforts. Version 0.1 : démonstration complète avec données fictives.

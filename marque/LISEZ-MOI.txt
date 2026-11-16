@@ -1,12 +1,12 @@
-BEAUTY RENFORT PRO — KIT DU LOGO
+RENFORLY — KIT DU LOGO
 
 1-logo-principal
-  renfort-horizontal (.svg / .png)        Logo principal : site, documents, signature e-mail
-  renfort-horizontal-fond-sombre.png      Même logo pour fond bleu nuit ou foncé
-  renfort-horizontal-inverse.svg          Version vectorielle pour fond sombre
-  renfort-empile (.svg / .png)            Logo empilé : formats carrés, affiches
-  renfort-symbole (.svg / .png)           La fleur seule (petits espaces, filigrane)
-  renfort-mot.svg                         Le mot « renfort » seul
+  renforly-horizontal (.svg / .png)        Logo principal : site, documents, signature e-mail
+  renforly-horizontal-fond-sombre.png      Même logo pour fond bleu nuit ou foncé
+  renforly-horizontal-inverse.svg          Version vectorielle pour fond sombre
+  renforly-empile (.svg / .png)            Logo empilé : formats carrés, affiches
+  renforly-symbole (.svg / .png)           La fleur seule (petits espaces, filigrane)
+  renforly-mot.svg                         Le mot « renforly » seul
 
 2-une-couleur                             Versions noire, blanche et bleu nuit (tampon, broderie, gravure, fax)
 
@@ -23,17 +23,17 @@ Word ou les réseaux sociaux.
 COULEURS
   Bleu nuit        #1A2747   RVB 26 39 71
   Magenta          #B8005F   RVB 184 0 95
-  Rose clair       #F06AA6   (pétale sur fond sombre uniquement)
+  Rose clair       #F06AA6   (pétale et « ly » sur fond sombre uniquement)
   Gris porcelaine  #F1F2F5   (fonds clairs)
 
 POLICES (gratuites, licence OFL, disponibles sur Google Fonts et dans Canva)
   Bricolage Grotesque ExtraBold : titres et logo
-  Figtree : textes et « BEAUTY PRO »
+  Figtree : textes
 
 RÈGLES
   - Espace vide autour du logo : au moins la hauteur d'une pétale.
   - Logo horizontal : 120 px de large minimum à l'écran, 30 mm à l'impression ; en dessous, la fleur seule.
   - La pétale magenta pointe toujours vers le haut ; pas d'autres couleurs, d'ombre ni de déformation.
 
-Avant de déposer la marque, faites une recherche d'antériorité (INPI, base des marques) : aucune
-recherche juridique n'a été faite sur ce logo.
+Avant de déposer la marque : une recherche à l'identique sur data.inpi.fr (16/11/2026) n'a trouvé aucune marque
+« Renforly » en vigueur. Commandez la recherche de similarité de l'INPI avant le dépôt.
